@@ -1,0 +1,5 @@
+# ignore .pyc files
+*.pyc
+
+# exclude CodecLab.egg-info folder
+CodecLab.egg-info/
